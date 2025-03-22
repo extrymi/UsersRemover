@@ -1,0 +1,2 @@
+# UsersRemover
+Removes selected users
